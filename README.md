@@ -1,7 +1,4 @@
 # Mario HTML
-View demo here
-
-https://www.neilb.net/MarioHTML/
 
 To Build the project first install TypeScript and the dependencies
 
@@ -13,6 +10,4 @@ Then run the TSC Compiler to build the JavaScript Files
 
 `tsc`
 
-Also supports mobile and Xbox One Controller on PC
-
-![alt](Images/screenshot.png)
+Also supports mobile
